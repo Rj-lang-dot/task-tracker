@@ -28,7 +28,7 @@ The app is designed to be **clean, simple, and user-friendly**.
 
 ## How to Run
 1. Make sure **Node.js** is installed. You can download it from [nodejs.org](https://nodejs.org).  
-2. Open **terminal** or **PowerShell** in the project root folder (`react-project`).  
+2. Open **terminal** or **PowerShell** in the project root folder (`react-app`).  
 3. Install dependencies:
 
    ```bash
